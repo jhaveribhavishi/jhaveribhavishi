@@ -1,7 +1,7 @@
 # Hi, I'm Bhavishi 👋
 
 Network & Cloud Infrastructure Engineer with 8+ years across 
-automation, security, and hybrid cloud infrastructure.
+networking, automation, security, and hybrid cloud infrastructure.
 
 ## 🔧 What I Work With
 - **Automation:** Ansible, Jinja2, Python, Nautobot
