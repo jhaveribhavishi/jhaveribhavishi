@@ -6,7 +6,7 @@ networking, automation, security, and hybrid cloud infrastructure.
 ## 🔧 What I Work With
 - **Automation:** Ansible, Jinja2, Python, Nautobot
 - **Security:** Palo Alto / Panorama, firewall architecture  
-- **Cloud:** AWS, hybrid cloud migrations, DRaaS / BaaS
+- **Cloud:** GCP, hybrid cloud migrations, DRaaS / BaaS
 - **Networking:** BGP, VLANs, multi-tenant DC design, Layer 3
 
 ## 📌 Currently
